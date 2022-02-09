@@ -1,0 +1,38 @@
+.first{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width : 700px;
+    height :450px;   
+    background-color: darkgray;
+    border : darkgray solid 2px;
+    border-radius: 15px;
+   
+}
+.second{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: whitesmoke;
+    width : 300px;
+    height : 360px;
+    margin-top: 30px;
+    border-radius: 15px;
+   
+}
+img{
+    
+    border-radius: 7px;
+    width :300px;
+    height :140px;
+}
+
+.third{
+    margin : 25px;
+}
+.third a{
+    text-decoration: none;
+    color :blue;
+   padding-left: 50px;
+}
+
